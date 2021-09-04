@@ -1,1 +1,1 @@
-# Accent-CLassifcation-using-Deep-Learning
+# AI for Sociolinguistic Identification and Transcription
